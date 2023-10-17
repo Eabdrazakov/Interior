@@ -1,0 +1,15 @@
+img {
+    font-size: small;
+    width: 300px;
+    float: left;
+}
+
+.columns {
+    clear: left;
+    position: bottom;
+}
+
+p.column {
+    width: 300px;
+    float: left;
+}
